@@ -16,19 +16,13 @@ To run this project, you need Python installed on your system. It is recommended
 
 ## Installation
 
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/rajashekarpatha07/THE-MAZE-BANK.git
-   ```
-
-2. **Navigate to the Project Directory**
+1. **Navigate to the Project Directory**
 
    ```bash
    cd "c:/navigate/to/your/directory"
    ```
 
-3. **Install Dependencies**
+2. **Install Dependencies**
 
    This project doesn’t require any external Python packages besides the built-in libraries. However, if you want to create an executable, you will need **PyInstaller**:
 
