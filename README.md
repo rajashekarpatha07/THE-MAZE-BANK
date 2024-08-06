@@ -17,12 +17,13 @@ To run this project, you need Python installed on your system. It is recommended
 ## Installation
 
 1. **Navigate to the Project Directory**
+   Nagivate to directory after cloning
 
    ```bash
    cd "c:/navigate/to/your/directory"
    ```
 
-2. **Install Dependencies**
+3. **Install Dependencies**
 
    This project doesn’t require any external Python packages besides the built-in libraries. However, if you want to create an executable, you will need **PyInstaller**:
 
